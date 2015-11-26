@@ -3,7 +3,7 @@ package wolf.action.setup;
 import java.util.Collections;
 import java.util.List;
 
-import org.testng.collections.Lists;
+import com.google.common.collect.Lists;
 
 import wolf.model.Faction;
 import wolf.model.Player;
